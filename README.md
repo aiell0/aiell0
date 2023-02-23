@@ -11,6 +11,9 @@
   <a href="https://twitter.com/aiell0tech">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://medium.com/@aiell0tech">
+    <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=aiell0&style=flat-square&color=blue" alt=""/>
