@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lawrenceaiello/">
