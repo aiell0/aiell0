@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/lawrenceaiello/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/3987536/lawrence-aiello">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
-  </a>
   <a href="https://medium.com/@aiell0tech">
     <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
